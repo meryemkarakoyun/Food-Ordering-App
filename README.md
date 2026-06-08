@@ -44,10 +44,7 @@ A modern restaurant browsing and cart management application built with **React*
 ## 📽️ Demo
 
 <div align="center">
-
 <img width="800" height="385" alt="yemek-sepeti mp4-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/04e6a285-630e-44e4-a460-54921cc3bdeb" />
-
-
 </div>
 
 ---
